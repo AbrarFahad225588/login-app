@@ -1,0 +1,5 @@
+{
+  "editor.inlineSuggest.enabled": false,
+  "github.copilot.enabled": false,
+  "tabnine.experimentalAutoImports": false
+}
